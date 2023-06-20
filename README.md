@@ -10,7 +10,6 @@
 * seaborn - visualization
 
 ## **Dataset**
-#### [Downloadable Instacart dataset]
-#### “The Instacart Online Grocery Shopping Dataset 2017”, accessed from www.instacart.com/datasets/grocery-shopping-2017 via Kaggle
+#### [Kaggle Instacart Online Grocery Shopping Dataset 2017](https://www.kaggle.com/datasets/psparks/instacart-market-basket-analysis)
 
 
