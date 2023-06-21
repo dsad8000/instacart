@@ -10,7 +10,8 @@
 * seaborn - visualization
 
 ## **Dataset**
-#### [Kaggle Instacart Online Grocery Shopping Dataset 2017](https://www.kaggle.com/datasets/psparks/instacart-market-basket-analysis)
+### [Kaggle Instacart Online Grocery Shopping Dataset 2017](https://www.kaggle.com/datasets/psparks/instacart-market-basket-analysis)
+
 
 <kbd>![image](https://github.com/dsad8000/instacart/assets/98616377/a1b489ea-6ea5-4a1a-bf9a-adf276179e28)<kbd>
 
@@ -18,7 +19,8 @@
 
 
 ## **Analysis and Recommendations**
-[Full Excel report]
+### [Full Excel report](https://github.com/dsad8000/instacart/blob/main/Instacart%20Basket%20Analysis/05%20Sent%20to%20client/Instacart_Final_Report.xlsx)
+
 
 <kbd>![image](https://github.com/dsad8000/instacart/assets/98616377/a9a1324e-7381-40ea-b989-dd844ab6d800)<kbd>
 
